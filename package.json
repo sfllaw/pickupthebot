@@ -1,0 +1,21 @@
+{
+  "name": "pickupthebot",
+  "version": "0.0.1",
+  "description": "Bot that reads messages from other places and repeats them in Slack",
+  "dependencies": {
+    "botkit": "^0.4",
+    "conf": "^0.11",
+    "docopt": "^0.6",
+    "shell-quote": "^1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sfllaw/pickupthebot.git"
+  },
+  "author": {
+    "name": "Simon Law",
+    "email": "slaw@quantcast.com"
+  },
+  "license": "MIT",
+  "bin": "pickupthebot.js"
+}
